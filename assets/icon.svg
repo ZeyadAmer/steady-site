@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <title>Steady</title>
+  <rect width="120" height="120" rx="27" fill="#EFE7DA"/>
+  <ellipse cx="60" cy="88" rx="34" ry="12" fill="#2F3E46"/>
+  <ellipse cx="60" cy="64" rx="25" ry="10.5" fill="#52796F"/>
+  <ellipse cx="60" cy="43" rx="16" ry="9" fill="#84A98C"/>
+  <circle cx="60" cy="25" r="6" fill="#D98F5C"/>
+</svg>
